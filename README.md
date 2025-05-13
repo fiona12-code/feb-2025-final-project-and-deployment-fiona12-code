@@ -37,8 +37,8 @@ Welcome to the personal website of Dr. Fiona Atieno, a general medical practitio
 
 # 📂 Project Structure
 
-/
-├── index.html # Home page with intro and appointment form
+> /
+> ├── index.html # Home page with intro and appointment form
 ├── fiona.html # Profile page of Dr. Fiona
 ├── services.html # Services offered with "Book Now" options
 ├── patient.html # Patient info form and business hours
