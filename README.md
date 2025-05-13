@@ -132,5 +132,5 @@ Alerts if any required fields are empty
 
 - Mary Fiona Omondi
 - 📧 [omondifiona77@gmail.com](mail to: omondifiona77@gmail.com)
-- 🌍 Nairobi, Keny
+- 🌍 Nairobi, Kenya
 - [Github](https://github.com/fiona12-code)
