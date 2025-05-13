@@ -33,7 +33,7 @@ Good luck and happy coding! 🚀💻
 
 Welcome to the personal website of Dr. Fiona Atieno, a general medical practitioner offering online and house-call services. This site is designed to provide information about services, patient forms, contact details, and appointment booking—all built using HTML, CSS, and JavaScript.
 
-- Site is hosted on [Netlify]()
+- Site is hosted on [Netlify](https://drfionaatieno.netlify.app/)
 
 # 📂 Project Structure
 
@@ -130,8 +130,7 @@ Alerts if any required fields are empty
 
 # ✍️ Author
 
-- Dr. Fiona Atieno
-- 📧 omondifiona77@gmail.com
-- 🌍 Nairobi, Kenya
-- 🐦 @FifiAtieno
+- Mary Fiona Omondi
+- 📧 [omondifiona77@gmail.com](mail to: omondifiona77@gmail.com)
+- 🌍 Nairobi, Keny
 - [Github](https://github.com/fiona12-code)
