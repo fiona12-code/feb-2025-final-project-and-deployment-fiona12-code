@@ -175,6 +175,10 @@ h1 {
   color: #155263;
 }
 
+.service a:hover {
+  color: #155263;
+}
+
 form {
   background-color: #f2f2f2;
   padding: 20px;
