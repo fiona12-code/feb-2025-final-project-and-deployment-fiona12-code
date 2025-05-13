@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body class="page-two">
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="fiona.html">Dr Fiona</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="patient.html">Patient Info</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <form action="" id="appointment-form">
+      <label for="Date">Date:</label> <br />
+
+      <input type="date" id="Date" name="Date" required /> <br />
+
+      <label for="Time">Time:</label> <br />
+
+      <input type="time" id="Time" name="Time" required /> <br />
+
+      <label for="Details">Service Needed</label> <br />
+
+      <select name="service" id="service-needed">
+        <option value="general-consultation">General Consultation</option>
+        <option value="physical-examination">Physical Examination</option>
+        <option value="health-education">Health Education</option>
+        <option value="health-promotion">Health Promotion</option>
+      </select>
+      <br />
+
+      <label for="submit">Submit</label>
+      <br />
+
+      <input type="submit" id="submit" name="submit" />
+    </form>
+
+    <script src="index.js"></script>
+  </body>
+</html>

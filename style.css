@@ -1,0 +1,249 @@
+.page-one {
+  background: url("stethoscope.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  background-color: #f4eeff;
+  padding: 10px;
+  box-shadow: #141010 0px 0px 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #007cb9;
+  padding: 30px;
+  transition: all 300ms ease-in-out;
+}
+
+nav ul li a:hover {
+  color: #a7bcb9;
+  background-color: #007cb9;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: #070f4e;
+  margin-top: 100px;
+  font-size: 70px;
+}
+
+.paragraph-one {
+  text-align: center;
+  color: #070f4e;
+  font-size: 30px;
+}
+
+.button-one {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #8a1253;
+  color: #eaeaea;
+  font-size: 20px;
+  transition: all 300ms ease-in-out;
+  cursor: pointer;
+  box-shadow: #141010 0px 0px 20px;
+}
+
+.button-one:hover {
+  background-color: #eaeaea;
+  color: #8a1253;
+  box-shadow: #141010 0px 0px 20px;
+}
+
+.heading-two {
+  text-align: center;
+  color: #070f4e;
+  font-size: 50px;
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-one {
+  height: 600px;
+  border-radius: 20px;
+  margin-left: 200px;
+  box-shadow: #141010 0px 0px 20px;
+}
+
+.container-one {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  transform: translateY(-600px);
+}
+
+.container-one p {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  font-size: 16px;
+  color: #363b4e;
+}
+
+.page-two {
+  background-color: #e4f1fe;
+}
+.container-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(-600px);
+  margin-left: 500px;
+}
+
+.container-two h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #070f4e;
+}
+.container-three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(-600px);
+  margin-left: 500px;
+}
+
+.container-three p {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  font-size: 16px;
+  color: #363b4e;
+  margin-left: 120px;
+}
+
+.services-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.services-container .service {
+  background-color: #e7eaf6;
+  border-radius: 20px;
+  padding: 40px;
+  margin: 20px;
+  box-shadow: #141010 0px 0px 10px;
+  width: 300px;
+  color: #1e549f;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.service p {
+  font-size: 15px;
+  line-height: 2;
+}
+
+.service button {
+  background-color: #155263;
+  color: #d5eeff;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 300ms ease-in-out;
+  font-size: 20px;
+  box-shadow: #141010 0px 0px 20px;
+}
+
+.service a {
+  text-decoration: none;
+  color: #d5eeff;
+}
+
+.service button:hover {
+  background-color: #d5eeff;
+  color: #155263;
+}
+
+form {
+  background-color: #f2f2f2;
+  padding: 20px;
+  box-shadow: #141010 0px 0px 20px;
+  margin-top: 150px;
+}
+
+form label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #070f4e;
+}
+
+form input {
+  padding: 10px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+form textarea {
+  padding: 10px;
+  width: 90%;
+  height: 200px;
+  margin: 20px auto;
+}
+
+form select {
+  padding: 10px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.container-four {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  color: #1a2639;
+}
+
+.container-four li {
+  list-style: none;
+}
+
+.container-four li:hover {
+  color: #8a1253;
+}
+
+.container-four li a {
+  text-decoration: none;
+  color: #1a2639;
+}
+
+.container-four li a:hover {
+  color: #8a1253;
+}
+
+.container-four h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #070f4e;
+}
+
+.contacts {
+  background-color: #fafafa;
+  padding: 40px;
+  margin: 0 350px;
+  box-shadow: #141010 0px 0px 20px;
+  border-radius: 20px;
+}
+
+.hidden-form {
+  display: none;
+}
